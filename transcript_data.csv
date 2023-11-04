@@ -1,0 +1,175 @@
+candidate,start,end,text,positive,negative,neutral,confident,hesitant,concise,enthusiastic,speech_speed
+1,0,5.56," Hello, I am Jeffrey Shepherd and I am currently pursuing postgraduate and management from",0.580265284,0.152280837,0.26745379,0.846700728,0.845698476,0.635804951,0.647782624,2.517985612
+1,5.56,9.6, IIM Coikode. I have completed my B.Tech in Biotechnology from Heritage Institute of,0.550327182,0.18926312,0.260409683,0.679283381,0.733700991,0.544144928,0.417390049,3.217821782
+1,9.6,14.48," Technology Kolkata, followed by my M.Tech from IIT Kharagpur. I come with an experience",0.639859915,0.111149862,0.248990193,0.902728915,0.834620178,0.715860784,0.700062394,2.868852459
+1,14.48,18.48, of three years in the regulatory affairs domain of the pharmaceutical industry and I worked,0.441894263,0.399186313,0.158919439,0.774308324,0.813044369,0.52246213,0.279916108,3.75
+1,18.48,23.28," as a medical writer in Ciro Klein Farm, Mumbai and have specialized in drug safety and risk",0.236254498,0.532010198,0.231735304,0.286049008,0.561374903,0.334380955,0.197304532,3.541666667
+1,23.28,27.76, management. What sets me apart is the expertise I bring in with my three years of experience,0.851373434,0.073994488,0.074632056,0.975968719,0.609038532,0.462682545,0.48379916,3.794642857
+1,27.76,31.92," and an added two years of postgraduation. Along with this, I add another dimension to",0.400329351,0.435137987,0.164532691,0.539451241,0.842325509,0.012766704,0.210405737,3.605769231
+1,31.92,37.12, the discussion with my background in biotechnology. An added advantage is my ability to pay attention,0.931236923,0.01759183,0.051171307,0.729052365,0.36589852,0.423575997,0.214498013,3.076923077
+1,37.12,44," to detail, which is well testamented in my research work and patents, publication and",0.868872225,0.042096622,0.08903107,0.980931461,0.008425266,0.919734895,0.119601041,2.034883721
+1,44,49.28," the best research award which my work at IIT Kharagpur has received. After my 12th, I developed",0.872061908,0.047047414,0.080890715,0.893116772,0.352822721,0.675465941,0.748910606,3.21969697
+1,49.28,53.36, a keen interest in baking and over time this has transitioned from a mere hobby into my,0.711185396,0.068988547,0.219826072,0.898493588,0.114567183,0.263302326,0.98085171,4.166666667
+1,53.36,58.16, passion. I love experimenting with traditional recipes and regularly bake for family as well,0.870451033,0.040040623,0.089508303,0.805399954,0.387519896,0.10145811,0.990310013,2.916666667
+1,58.16,63.84," as small functions. I also enjoy traveling, exploring new places, meeting new people and",0.726512253,0.086785249,0.18670243,0.568823814,0.64209199,0.459378541,0.782632649,2.464788732
+1,63.84,67.6, experiencing different cultures. The core competencies which have helped me in my,0.806589544,0.067141801,0.12626864,0.601003647,0.368689835,0.333194882,0.201125577,3.191489362
+1,67.6,73.36, professional career are mainly my consistency. I have consistently excelled in my academics,0.934115708,0.016816858,0.049067423,0.898673356,0.339554042,0.863110065,0.378124774,2.256944444
+1,73.36,77.52," and this perseverance has also helped me grow in my professional career. In addition to this,",0.980389357,0.00497743,0.014633218,0.933579028,0.248100206,0.370515138,0.535239398,3.846153846
+1,77.52,82.72, my ability to pay attention to minutest of details helps me to view a problem from,0.752897024,0.094540417,0.152562499,0.430207253,0.237568572,0.071319662,0.088579834,3.076923077
+1,82.72,88.72, various angles and evaluate and analyze it to come to an effective solution. Thank you.,0.610967994,0.162810788,0.226221174,0.465132654,0.428063184,0.020373121,0.420410693,2.5
+2,0,0," Hello, I am Beside You. I am Cameron Barajas and I am thrilled to apply to this opportunity",0.909206212,0.015431384,0.075362407,0.976302087,0.020648664,0.849302888,0.99806422,4.166666667
+2,0,4.32, today. I recently completed my BBA in 2022. I have a flexible attitude. I can lead the,0.660675168,0.052639984,0.286684781,0.96862936,0.741090953,0.649625003,0.701379061,2.992957746
+2,0,10, team and be a good team player according to the situation. I am a passionate individual,0.752117991,0.103342853,0.144539088,0.381387293,0.147522151,0.181113899,0.944817364,3.539823009
+2,0,14.52, who aims for perfection in the task and I always try to give my best and reach the expectations.,0.853777528,0.070205055,0.076017432,0.953803301,0.040391885,0.480148762,0.678803146,3.429602888
+2,0,20.06," In summer 2022, I interned in a boutique investment bank based out of Hyderabad. In this internship,",0.599971414,0.133194983,0.266833633,0.809297383,0.800699711,0.692572653,0.446205288,3.136531365
+2,0,25.48, I worked closely with senior professionals. I was involved in developing the framework,0.673308551,0.139675885,0.187015563,0.807213306,0.673291504,0.580858231,0.40773645,3.217821782
+2,2952,29.52, of a venture network at the ideation stage. This venture network focused on providing,0.635549128,0.126155898,0.238294989,0.428384066,0.885919988,0.506651223,0.506413102,3.398058252
+2,2952,33.64, funds at the seed level and CD sale levels. I got an opportunity to discuss about startups,0.651966512,0.109847084,0.238186419,0.478938013,0.656514883,0.480949014,0.40755403,3.244274809
+2,2952,38.88, and what an investor should look for before investing in a startup. And I found this whole,0.752902031,0.084144071,0.162953854,0.559516549,0.402336538,0.703342855,0.366828471,3.4
+2,2952,43.88," process exciting. In addition to this, I interned with a startup known as Kabadi Techno. And",0.983975649,0.004942311,0.011082009,0.782535672,0.003049,0.154646575,0.992961526,3.03030303
+2,2952,49.16," in this internship, I regularly discussed the growth of the startups and how a business",0.705165744,0.102094144,0.192740083,0.70925194,0.388039619,0.301141173,0.381830484,3.125
+2,2952,53.96, should be working with the founder. And I used to update my business model accordingly,0.493759573,0.285281479,0.220958933,0.422986448,0.758238971,0.552208483,0.197962716,3.409090909
+2,5836,58.4, according to our discussions. And my area of focus in this internship was on finance.,0.591406941,0.159934834,0.248658136,0.772993326,0.684361219,0.565374672,0.187850028,2.884615385
+2,5836,63.6, So I prepared the financial model to get a ballpark figure valuation of the startup.,0.445882022,0.139760032,0.41435802,0.252384454,0.523318172,0.451149464,0.150742799,2.483443709
+2,5836,69.64, So these two latest internships have provided me a comprehensive view of the company's perspective,0.728875756,0.140218586,0.130905673,0.813967645,0.117943205,0.106336921,0.165290475,2.86259542
+2,5836,74.88, and an investor's perspective. So now I am looking for a challenging role where I can,0.525252521,0.30969727,0.165050149,0.313356698,0.674460351,0.091963284,0.107444167,3.539823009
+2,5836,79.4, put my all skills to practice and grow at an acceleration rate. And this is what I am,0.850320339,0.047530308,0.102149345,0.759151161,0.002186059,0.228639811,0.398414075,3.982300885
+2,8392,83.92," Beside You is providing. Hence, I firmly believe that I am Beside You and I am a perfect fit.",0.964716852,0.004819608,0.030463532,0.993897319,0.036818523,0.731839359,0.902748525,3.76984127
+2,8392,88.96, Thank you.,0.939290881,0.014358559,0.046350557,0.82871145,0.730174124,0.892335176,0.873970926,2.5
+3,0,3, My name is Michael Guzman and I am 21 years old.,0.463381708,0.253666341,0.282952011,0.839098394,0.850701153,0.628546953,0.443203688,3.666666667
+3,3,7.36," Hailing from a small family in Varanasi, I had been there most of my life, but MBA has",0.498883367,0.27525115,0.225865453,0.864236712,0.717808127,0.594307065,0.382696718,4.128440367
+3,7.36,11.36," given me the experience of living alone for the first time, which has been quite tough",0.096212104,0.731900752,0.171887189,0.001163911,0.890284717,0.14800176,0.004133678,4
+3,11.36,12.84, and challenging for me.,0.087090731,0.879443586,0.033465628,0.002382658,0.994522154,0.006319232,0.470964909,2.702702703
+3,12.84,16.8, I completed my school being one of the top students of my batch and also being a part,0.82385391,0.095513143,0.080632918,0.938360929,0.23081778,0.521345556,0.722231269,4.545454545
+3,16.8,20.84, of the school student council as the activity head of the school.,0.539485157,0.24982293,0.210691974,0.846756876,0.777763426,0.493725151,0.531890154,2.97029703
+3,20.84,25.48," Later on, I gave the undergraduate entrance exam of BHU securing a rank in the top 1.2%",0.79941994,0.092222117,0.108357839,0.756763816,0.479246408,0.576192379,0.409028769,3.663793103
+3,25.48,31.2," and pursued to become honours from Varanasi University, but unfortunately, due to COVID-19,",0.010478819,0.971378326,0.018142808,0.027668694,0.717964947,0.163604319,0.015335925,2.272727273
+3,31.2,33.6, most of my college life was spent online.,0.250408947,0.413254917,0.336336136,0.531224549,0.67270124,0.237808034,0.072742924,3.333333333
+3,33.6,38.04," During my very day days when I had the opportunity to put my foot in the college, I volunteered",0.639756501,0.208062991,0.152180478,0.896543503,0.438615143,0.692277193,0.882872403,4.279279279
+3,38.04,42.16," as a member of the National Service Team, working towards the welfare of the society",0.914879024,0.041746445,0.04337452,0.627701521,0.38058424,0.375423729,0.322267085,3.640776699
+3,42.16,44.52, through small yet powerful steps.,0.902551591,0.040750127,0.056698218,0.793861866,0.766921401,0.685737371,0.527412713,2.118644068
+3,44.52,48.68," During lockdown, I helped in spreading awareness regarding COVID-19 being a part of an event",0.683472872,0.220225975,0.096301168,0.43983227,0.472927541,0.323431939,0.139861554,3.605769231
+3,48.68,50.88, organising committee of my college.,0.556538343,0.255986631,0.187475011,0.749169886,0.801208138,0.408863157,0.507820368,2.272727273
+3,50.88,56.16, I had an internship in a small steel manufacturing firm related to steel furniture in Varanasi,0.46904403,0.231678769,0.299277246,0.714173317,0.678282917,0.646057367,0.280631989,3.03030303
+3,56.16,59.52, as a sales associate to get some practical experience.,0.602210999,0.109997869,0.287791163,0.601326108,0.558309793,0.469755679,0.354538143,2.678571429
+3,59.52,63.96, I also interned in an accounting firm to gain knowledge and learn about the practical applications,0.656863213,0.133961529,0.209175244,0.685951829,0.509028375,0.47826609,0.267614007,3.603603604
+3,63.96,65.96, of accounting in the real world.,0.303460896,0.359860867,0.336678296,0.221436992,0.502841353,0.258310854,0.08330901,3
+3,65.96,70.32," Apart from my academics, I love to confidently say that I am an excellent guitar player and",0.863357604,0.052057065,0.084585249,0.99236244,0.001166696,0.502680361,0.962569475,3.899082569
+3,70.32,74.24," learned the art of fingerstyle guitar, which at the time was not popular at my place and",0.648682356,0.180216372,0.171101302,0.359081388,0.611688614,0.248769879,0.042240024,4.336734694
+3,74.24,77.56, hence I had to learn from various sources online myself.,0.245267227,0.37260744,0.382125348,0.335240215,0.797628164,0.173909828,0.129190758,3.012048193
+3,77.56,82.4, I also run a small YouTube channel devoted to my passion for music and that is where,0.560531259,0.196647927,0.242820844,0.806223214,0.587038398,0.399259835,0.759278238,3.512396694
+3,82.4,86.28, I upload my own arrangements as well as covers along with tutorials.,0.632018209,0.109673381,0.258308321,0.70843631,0.321867138,0.180139974,0.493128955,3.092783505
+3,86.28,90.24, I have found that the role offered by your company has sparked interest in me as I believe,0.983813584,0.005411337,0.01077507,0.985056579,0.601378381,0.693519056,0.995513439,4.545454545
+3,90.24,92.96, it would be a challenging and rewarding experience.,0.992484808,0.002974826,0.004540362,0.064616226,0.251367152,0.043143429,0.88126266,2.941176471
+3,92.96,96.6," Moving towards the end, I would love to know if I am beside you during the next year's",0.425119042,0.4211815,0.153699458,0.134845078,0.950687408,0.108212128,0.73510468,4.945054945
+3,96.6,97.6, hours.,0.266814232,0.489480376,0.243705392,0.332378596,0.84273535,0.106852338,0.192060933,1
+3,97.6,98.1, Thank you!,0.967111468,0.006455501,0.026432993,0.80395788,0.506033242,0.887559891,0.936493874,4
+4,0,5.12," Hello, my name is Monique Mccormick. I'm from Guntur, Andhra Pradesh. I'm an engineering",0.498149931,0.177770168,0.324079961,0.901964247,0.956036925,0.752855957,0.752601683,2.734375
+4,5.12,9.12, graduate in electronics and communication field. My final year project is on performance,0.660134614,0.179785699,0.160079658,0.662276328,0.646359146,0.579740763,0.300230324,3.25
+4,9.12,14.24, analysis of shift resistors. I qualified GATE and secured a rank of 5300. I've done my,0.915222883,0.043607756,0.04116936,0.886353433,0.425062507,0.537448168,0.347854972,3.125
+4,14.24,19.36," internship at PSK VLSI Design Center, post which I worked in a school as academic advisor",0.398334652,0.320473284,0.281192094,0.510847688,0.716142654,0.368503273,0.209549844,3.125
+4,19.36,24.2," under administration for 19 months. During my tenure, I've developed my interest and",0.579748392,0.210189521,0.210062161,0.82016927,0.824738324,0.620306969,0.474963427,2.685950413
+4,24.2,29.72," inclination towards management, and I've provided my personal support to the school administration",0.831112385,0.071120404,0.097767182,0.8047629,0.46448341,0.406290501,0.556733489,2.355072464
+4,29.72,34.04," in achieving their results. To expand my skill set and broaden my perspective, I've",0.852941155,0.055935826,0.091122992,0.607604742,0.468635172,0.171102479,0.299030513,3.240740741
+4,34.04,39.68," undertook various courses such as consulting approach to problem solving, securities markets",0.563284099,0.244011968,0.192703977,0.451943696,0.423831463,0.181061313,0.211510986,2.127659574
+4,39.68,44.96," by NASM and data science specialization by IBM, where I've learned Python, data analysis",0.595098376,0.157562524,0.247339055,0.657268822,0.591770411,0.44030422,0.352677941,2.651515152
+4,44.96,50.08," and machine learning. Apart from my academics, I've undertook various positions at different",0.515420616,0.306451172,0.178128242,0.580933332,0.566397786,0.330729097,0.169760048,2.5390625
+4,50.08,57.44," stages of my life. To mention a few, I was event coordinator at my college for two years.",0.307276249,0.293495953,0.399227858,0.583973169,0.727421165,0.182833672,0.259915799,2.445652174
+4,57.44,63.36, I was elected student people leader of my school. I was also part of Sun NGO for the,0.782268405,0.116252407,0.101479203,0.761449158,0.444315016,0.537691176,0.644432425,3.040540541
+4,63.36,68," past four years. If I have to talk about my strengths, I'm an adaptive and inquisitive",0.884731352,0.033563323,0.081705309,0.10527233,0.070167653,0.131713048,0.666634202,3.448275862
+4,68,74.52," learner. I always, I'm always open to learning and exploring new things. I like taking up",0.784327507,0.034246173,0.181426346,0.698520362,0.776862204,0.23638165,0.973929167,2.45398773
+4,74.52,80.84, challenges and I work hard with resilience to achieve my goals. I've never let any of,0.740470529,0.137367249,0.122162163,0.768463075,0.612228811,0.568759382,0.157670036,2.53164557
+4,80.84,86.92," my opportunities down and worked on areas which require my improvement. My hobbies are,",0.233842984,0.523588419,0.242568552,0.012007147,0.242280096,0.373147279,0.014492629,2.302631579
+4,86.92,92.08, I like playing badminton and chess. I like to dance and sometimes I would like to travel.,0.712315083,0.147361234,0.140323699,0.700286984,0.543541849,0.339162916,0.695043325,3.294573643
+4,92.08,97.84," If given opportunity, I would utilize my knowledge and experience to help the company flourish",0.934199989,0.022970719,0.042829342,0.85783875,0.702459276,0.448680341,0.494270474,2.604166667
+4,97.84,98.92, their aspiring results.,0.670338154,0.137936845,0.191724971,0.441128135,0.635847807,0.459381312,0.79059279,2.777777778
+5,0,4.84," Hello, I'm Sakshi. I come from Mumbai. I did my undergraduation in mass media",0.539392352,0.143637553,0.31697008,0.897895455,0.924957216,0.740309417,0.693109334,2.892561983
+5,4.84,8.96, with specialization in advertising. I have completed two,0.8256796,0.104166493,0.07015387,0.73246783,0.29898411,0.556737661,0.38840723,1.941747573
+5,8.96,12.88, certification courses. One was entrepreneurship course by Turnip and,0.685737908,0.156997383,0.157264754,0.718465388,0.414893746,0.471626937,0.421807945,2.295918367
+5,12.88,16.88," second one was foundations of management by Google. Apart from that, when I'm not",0.46467644,0.354673892,0.180649623,0.133900344,0.584103346,0.340602905,0.083330452,3.5
+5,16.88,22," busy doing college group projects and assignments, I keep myself busy doing",0.423741579,0.276220471,0.300037891,0.837648451,0.582610011,0.352157772,0.31177789,2.34375
+5,22,26.88," various things like drawing, painting, singing, writing movie reviews on my",0.643380702,0.10023471,0.256384552,0.640092373,0.369792819,0.046411026,0.459979683,2.254098361
+5,26.88,30.84, personal movie review account on Instagram. I also recently won an,0.686997414,0.100657016,0.212345585,0.733875036,0.662218273,0.318639457,0.464802831,2.777777778
+5,30.84,34.28, international art competition hosted by the largest science channel on YouTube,0.686823487,0.134787783,0.178388759,0.646759808,0.539980233,0.215794548,0.412160128,3.197674419
+5,34.28,38.48, called Krezkazad. They have over 19 million followers and it is one of my,0.611753881,0.164233029,0.22401306,0.778986216,0.314120442,0.335226566,0.671075225,3.333333333
+5,38.48,42.44, biggest proudest achievements. Because I would like to spread,0.950391352,0.013648334,0.035960328,0.881679416,0.007716727,0.377374053,0.903438807,2.272727273
+5,42.44,47.5," awareness about mental health issues and neurodevelopmental disorders, I have an",0.584467947,0.286313951,0.129218102,0.197129011,0.734290481,0.245009005,0.128550917,2.173913043
+5,47.5,51.76, idea to share with you all. The idea goes as we get the AI to analyze what works,0.671624959,0.084068187,0.244306892,0.650229633,0.3017537,0.405085623,0.591486573,4.225352113
+5,51.76,55.44, and what doesn't work for students with neurodevelopmental disorders like ADHD,0.104819752,0.755570889,0.139609337,0.065767631,0.631813824,0.214568347,0.011456951,2.989130435
+5,55.44,59.04, and then coming up with a program or strategy or a plan to help these,0.666162789,0.150200769,0.183636427,0.417246372,0.592567801,0.297612697,0.227758318,4.166666667
+5,59.04,63.08, students out through specialized programs with maybe teachers who have a certain,0.537353098,0.267005265,0.195641682,0.625110328,0.685129046,0.344342738,0.187110513,2.97029703
+5,63.08,67.52, teaching style that just works well for kids like these and or,0.93773675,0.011024963,0.051238243,0.737882257,0.184195295,0.809419274,0.460206866,2.702702703
+5,67.52,74.52, activities that help them stay focused or concentrate better. That's it. Thank you.,0.698996484,0.075779095,0.225224406,0.33646211,0.016166545,0.961037755,0.011409278,1.857142857
+6,0,5.28," Hi, my name is Nathan Lewis. I'm a first year MBA analytics student from IIM",0.442265332,0.168479279,0.389255404,0.814686716,0.888548195,0.687718332,0.475202084,2.840909091
+6,5.28,9.4, Kashipur. From having a consulting experience at Deloitte for three years,0.625292897,0.189070106,0.185637027,0.882210791,0.733979046,0.715336025,0.498378873,2.669902913
+6,9.4,14.56," after graduating in engineering, I paved my way to an MBA analytics degree to",0.663539052,0.13999036,0.196470559,0.718757451,0.475904018,0.468598157,0.249355286,2.713178295
+6,14.56,19.24, quench my thirst for exploration into an amalgamation of a world of analytics,0.629361689,0.254179835,0.11645852,0.246212438,0.139614388,0.017592829,0.297431171,2.777777778
+6,19.24,23.2," strategy and planning. During my time in Deloitte, I worked on end-to-end",0.616286576,0.167755947,0.215957478,0.557684004,0.344132125,0.273926884,0.111189373,3.03030303
+6,23.2,28.32," validation processes for softwares for pharmaceutical clients. Also, my ongoing",0.793478847,0.117466822,0.089054368,0.503994882,0.501778901,0.346537024,0.207391366,1.953125
+6,28.32,33.6, post-graduation in MBA analytics has taken me closer to the field of analytics,0.853922784,0.067653447,0.078423783,0.688636124,0.455825835,0.377224058,0.254511327,2.462121212
+6,33.6,39.2," in business. To fuel my constant need to take responsibilities, I am a member of",0.307603568,0.48411262,0.208283797,0.264953673,0.649782717,0.163599268,0.202910215,2.678571429
+6,39.2,44.28, the media and public relations committee of our college. It lets me be a part of,0.785905719,0.109000176,0.105094053,0.84329617,0.675159276,0.48949644,0.395660192,3.149606299
+6,44.28,49.2, the team who plans to create and apply for a promotion and PR strategies for,0.715141237,0.155015811,0.129842967,0.599296689,0.468075514,0.325614303,0.397243053,3.048780488
+6,49.2,54.4, the college. I also handle the social media pages of the college. I have been a,0.470078886,0.240746349,0.289174795,0.847987175,0.714867651,0.365911126,0.277143866,3.076923077
+6,54.4,58.8, content writer and editor for college related activities since graduation. I,0.545941412,0.188114211,0.265944332,0.757720709,0.585002601,0.346874088,0.357586622,2.5
+6,58.8,63.32, love interacting with people and understanding them. The fact that IIM,0.927562296,0.024603173,0.047834564,0.801966608,0.569800436,0.384682626,0.94131434,2.433628319
+6,63.32,67.76, beside you has a positive attitude towards mental health issues is,0.983252704,0.00559888,0.011148473,0.914014697,0.003023787,0.309891433,0.951221406,2.477477477
+6,67.76,72.64, really an amazing thing. The company's very idea of trying to understand real,0.9764961,0.007345931,0.016157927,0.797691226,0.173202276,0.113692701,0.97716856,2.663934426
+6,72.64,77.92," emotions, my increasing affinity towards analytics, my experience in strategizing",0.612841487,0.14121978,0.245938778,0.408528686,0.294521719,0.037812818,0.193305224,1.893939394
+6,77.92,83.04, as a consultant and my love for learning are the reasons why I want to join this,0.904787242,0.031364698,0.063848086,0.88827914,0.482010245,0.430586278,0.969579875,3.3203125
+6,83.04,86.76, internship. Thank you!,0.947523534,0.010129861,0.042346604,0.699668348,0.669312179,0.765155792,0.909206688,0.806451613
+7,0,10.08," Hello, I am Joseph Nichols. I belong to the heritage city of Varanasi. I have done my undergraduation",0.52080363,0.168074533,0.311121851,0.844284832,0.916886747,0.674078166,0.697654724,1.785714286
+7,10.08,16.4, in earth science from Banaras Hindu University. And post that I have worked with the single,0.357794613,0.230645031,0.411560416,0.612985134,0.800743043,0.438345402,0.301148921,2.53164557
+7,16.4,21.64, largest government owned reinsurer in the country called General Insurance Corporation,0.638187289,0.242600769,0.119211875,0.810559034,0.610566676,0.456427276,0.244824544,2.099236641
+7,21.64,28.72, of India in their retrocession and reinsurance underwriting departments. My thorough understanding,0.58839035,0.209221989,0.202387631,0.763873219,0.411180258,0.583936453,0.331456035,1.694915254
+7,28.72,34.48, of the Indian markets and analytical skills acquired due to working in such a diverse,0.779630661,0.077198394,0.143170908,0.700539887,0.265143216,0.129944518,0.184157953,2.604166667
+7,34.48,42.68," and rich field such as reinsurance, along with my verbal and written communication skills",0.861882806,0.045446943,0.092670269,0.866972148,0.101150431,0.315586597,0.433974147,1.707317073
+7,42.68,49.28, are the attributes which I feel make me the right fit for this job. As a person I believe,0.955632746,0.010879842,0.033487409,0.791392207,0.571502149,0.829081893,0.244109511,2.878787879
+7,49.28,56, in the thought that you cannot find newer oceans until you lose sight of the shore.,0.277080983,0.559853435,0.163065612,0.282490313,0.61055696,0.165729865,0.121832453,2.380952381
+7,56.72,61.12, This thought is something that pushes me each day towards having newer experiences.,0.967291594,0.013286409,0.019422069,0.688811064,0.020518936,0.203512922,0.818173051,2.954545455
+7,62.56,68.48," While reading about your company and beside you, I understood that you guys want to create a",0.579894543,0.194442004,0.225663424,0.67942059,0.579301715,0.243262872,0.497395009,2.871621622
+7,68.48,76.4, society where children can live their lives as they are and realize the uniqueness of each person,0.874557078,0.048390232,0.07705266,0.649190366,0.601359606,0.240689635,0.217924744,2.146464646
+7,76.4,84.08, through artificial intelligence. This idea really resonated with me and I do wish to be a part of,0.967671812,0.009591024,0.022737168,0.725499153,0.070066616,0.19808282,0.968794942,2.34375
+7,84.08,87.6, this awakening. Thank you so much.,0.956782639,0.013389452,0.029827844,0.732262552,0.382929862,0.702738166,0.969767749,1.704545455
+8,0,6.88," Hi, hope you're doing well. I'm Srivats Biyani. I am a PGP finance student at IIM Co-Ecode.",0.749868929,0.073201507,0.176929563,0.613488555,0.810735106,0.677797794,0.614666045,2.470930233
+8,6.88,12.12," Now before joining IIM Co-Ecode, what all have I done? I am a chartered accountant and",0.250922173,0.367667675,0.381410122,0.156975418,0.982899308,0.177705243,0.087839045,3.053435115
+8,12.12,17.84," I've also cleared CFA level 1. I interned with PWC for more than three years, did my",0.795945883,0.072044663,0.132009476,0.85965395,0.526983619,0.681132495,0.410667688,2.972027972
+8,17.84,23.6, article shift basically from there and I worked in the statutory audit department. After clearing,0.369227439,0.342266679,0.288505912,0.266564459,0.729599535,0.310951948,0.115519777,2.604166667
+8,23.6,29," CA, I worked with ITC limited in the internal audit department for almost 14 months after",0.365604967,0.403854519,0.230540514,0.5655936,0.854084134,0.415773749,0.146436661,2.962962963
+8,29,37, which I joined IIM Co-Ecode for the MBA program. Now a little bit about my skills etc. So I,0.52132231,0.182750598,0.295927078,0.577603996,0.604250014,0.284943849,0.320948571,2.375
+8,37,42.88," am a very analytical person. I love playing with numbers, you know, data sets, apply all",0.632329464,0.126171365,0.241499141,0.842724204,0.207890972,0.289487749,0.570919633,2.721088435
+8,42.88,49.56," sorts of statistical tools, try and understand whatever possible outcomes or interpretations",0.215706125,0.286085427,0.498208463,0.067931443,0.298930854,0.035912417,0.067640439,1.796407186
+8,49.56,56.12, are there from those numbers. I just love the idea about getting into the edtech space.,0.902281284,0.035854168,0.061864596,0.350916505,0.209653437,0.246672392,0.971159279,2.43902439
+8,56.12,62.6, Education is something which I believe is the base or the source or basically just the,0.493770003,0.233279377,0.27295059,0.564256489,0.457510233,0.282084376,0.151998669,2.469135802
+8,62.6,68.44," crux of any economy of the whole, not only the nation, of the whole world. If everyone",0.392660916,0.406962723,0.200376362,0.344281614,0.21791254,0.137775868,0.080297239,2.910958904
+8,68.44,75.16," is educated, I think the whole problem, I think the major problem will be solved. So",0.628909469,0.236003935,0.135086551,0.925557077,0.303246915,0.469685882,0.369329125,2.380952381
+8,75.16,80.08, this is the reason I am very fascinated about the idea that your company is providing and,0.817042112,0.081120551,0.101837412,0.674338937,0.07169164,0.167216301,0.943413079,3.455284553
+8,80.08,84.8, I wish I will be able to expand the successful model that you've built in Japan and bring,0.886637628,0.090295553,0.023066865,0.424058884,0.755325675,0.219209105,0.815663517,3.813559322
+8,84.8,89.84, that to India as well. So that is what I will aim to do if I am given an opportunity,0.80621928,0.10738042,0.086400308,0.832483172,0.394326985,0.491022229,0.55831176,3.968253968
+8,89.84,91.32, to work with you. Thank you.,0.857986152,0.031729471,0.110284396,0.813744605,0.696916282,0.744803667,0.773577929,4.054054054
+9,0,4," Hello, myself is Alexander Smith. I am a first year MBA student here at IIM Lucknow.",0.529111564,0.170376346,0.300512105,0.828881085,0.904766679,0.701875925,0.644032836,4
+9,4,10," I come from a suburban part of India. I did my B.Tech in Agriculture Engineering, my M.Tech in Food Process Engineering.",0.487809092,0.257261604,0.254929304,0.709294498,0.834372342,0.578687847,0.34760043,3.5
+9,10,16," During my M.Tech I co-founded an Agritech startup. I ran it for 10 months and generated around 1,000 surplus revenue.",0.64391607,0.207909822,0.148174152,0.517856836,0.658953667,0.532680452,0.246039763,3.333333333
+9,16,25," Lastly, I was working in an Agritech farm. I was leading a project on the application of remote sensing IoT and artificial intelligence in the field of agriculture and allied sectors.",0.460374594,0.315275937,0.224349499,0.492957652,0.822159648,0.725939274,0.271417081,3.444444444
+9,25,31," I am passionate about entrepreneurship and I am always interested in working in new challenging areas, mainly in the business development and strategy domain.",0.734722495,0.12144918,0.143828362,0.657750368,0.331903487,0.186973542,0.995263517,4
+9,31,43," As I am besides you, concentrated on the fact that the online communication is turning like a black box lately and understanding those facial expressions behind the camera is getting harder and harder day by day.",0.066446014,0.762480199,0.17107375,0.013360839,0.899348497,0.016397538,0.004274463,3
+9,43,59," So, having a deep learning algorithm that can analyze the facial expressions and provide a result that is more than 95% accurate will definitely help the civil society for a better human resource development and to maintain a better mental health graph.",0.941381514,0.021516344,0.037102144,0.563886702,0.242966995,0.091084413,0.096305259,2.625
+9,59,69, As we know that the coming age is going to be the age of artificial intelligence and to be a part of such a noble cause where the artificial intelligence is the backbone will definitely motivate someone like me,0.985728562,0.006704437,0.007567078,0.937100947,0.02734616,0.302920371,0.994401336,3.9
+9,69,81," who is always interested in working in the challenging areas, mainly where the artificial intelligence is the backbone for the development of the society. Thank you.",0.706683874,0.152564615,0.140751496,0.605489612,0.126767844,0.29971841,0.94703275,2.166666667
+10,0,6.04," My name is Michael Ramos, I am from Patna, Bihar. I have done my schooling in Commerce and then",0.457349479,0.206399634,0.336250901,0.8886801,0.881647289,0.705780149,0.623946011,2.98013245
+10,6.04,12.08, I went up to do my graduation in B.Com Honours. I have interned as an Accounting Associate,0.532671273,0.222764269,0.244564489,0.732423544,0.750270188,0.620743394,0.367078274,2.814569536
+10,12.08,16.68, as well as a Tax Associate wherein I got the chance to apply all the knowledge that I had,0.714758217,0.117540494,0.167701349,0.764776111,0.384794921,0.388321489,0.31606859,4.130434783
+10,16.68,22.56," learned in my B.Com to apply them in real life scenario. Apart from Academics, I have",0.60661906,0.132189065,0.261191845,0.829502761,0.4726367,0.776919186,0.383716971,2.721088435
+10,22.56,26.76, been involved in a lot of extracurricular activities. I was the captain of the students,0.629160643,0.139292598,0.231546819,0.732535303,0.387366831,0.098993018,0.349004984,3.571428571
+10,26.76,30.76, committee in my final school year and was also awarded the Best Student Award at the,0.82035774,0.089789242,0.089852989,0.859685242,0.76170063,0.571727335,0.618871272,4
+10,30.76,37.04," end of the year. When I went up to college, I was the class representative which again",0.365051597,0.422053695,0.212894663,0.632067263,0.808151424,0.604330838,0.282799631,2.707006369
+10,37.04,42.32," is the part of the students committee. Apart from that, I have been a part of Bad Scouts",0.042916514,0.879556656,0.077526748,0.680327713,0.840055883,0.41537866,0.228578016,3.409090909
+10,42.32,47.4, and Guide for more than 5 years where I have completed several treks and was part of a,0.42444697,0.332483411,0.243069574,0.852568269,0.424886048,0.240302429,0.476454347,3.543307087
+10,47.4,53.52," lot of activities that were based for social needs and for social cause. In my free time,",0.844494581,0.094715908,0.060789507,0.18214412,0.100494437,0.03597312,0.239479512,2.777777778
+10,53.52,58.68, I like to read both fiction and non-fiction based on if I am feeling creative that day,0.749994278,0.086514309,0.163491383,0.231128126,0.316820204,0.151902407,0.268992215,3.294573643
+10,58.68,63.48, or if I want to gain some info. The short term goal for me is to find a job where I,0.405511528,0.282120705,0.312367797,0.40113017,0.696275949,0.351399839,0.138354599,4.375
+10,63.48,69.16, can apply the skill set and the knowledge that I have gained so far and build new skills,0.737435102,0.063300706,0.199264184,0.821343362,0.204142332,0.422416598,0.254028887,3.169014085
+10,69.16,75.4," alongside. Whereas in the long term, I look for a role wherein I will be able to create",0.594038188,0.206492007,0.19946976,0.455449224,0.631635487,0.221028462,0.127612472,2.884615385
+10,75.4,81.68, value. I look for bigger targets so that I can test myself. I need to figure myself during,0.587038636,0.207190812,0.205770537,0.127398014,0.436416268,0.020205725,0.275292277,2.866242038
+10,81.84,88.84," the preliminary years so that when the superior targets are put, I am able to come up with",0.542674422,0.259973824,0.197351739,0.539319575,0.450220823,0.284380525,0.104140304,2.571428571
+10,88.84,89.72, the best outcomes.,0.963019073,0.013738508,0.02324239,0.807010174,0.303307772,0.646336198,0.479207039,3.409090909
